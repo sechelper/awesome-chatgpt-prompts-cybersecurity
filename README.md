@@ -1,5 +1,5 @@
 # awesome-chatgpt-prompts-cybersecurity
-网络安全专拣训练指令集，让ChatGPT成为一名网络安全专家。
+训练ChatGPT成为一名网络安全专家。
 
 很多问题不是一个指令就可以得到精准结果的，需要根据每个问题深入去了解，不能浅尝即止，期待大家提交`prompts`。
 
